@@ -12,6 +12,6 @@
   "license": "ISC",
   "dependencies": {
     "colors": "^1.2.1",
-    "formidable": "^1.2.0"
+    "formidable": "^1.2.1"
   }
 }
